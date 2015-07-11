@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry exported="true" kind="con" path="com.android.ide.eclipse.adt.ANDROID_FRAMEWORK"/>
+	<classpathentry exported="true" kind="con" path="com.android.ide.eclipse.adt.LIBRARIES"/>
+	<classpathentry exported="true" kind="src" path="/BoxToch-core"/>
+	<classpathentry exported="true" kind="lib" path="/home/npa/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx-backend-android/1.5.4/7b974b501dc92361698a1f6251f9e7b308582c08/gdx-backend-android-1.5.4.jar" sourcepath="/home/npa/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx-backend-android/1.5.4/494ea86b57d0fbcd1c89408b1db12eb27bba9f4f/gdx-backend-android-1.5.4-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="/home/npa/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx/1.5.4/c16e1a0088ae7f0cac4a8d6595be32432e6069f4/gdx-1.5.4.jar" sourcepath="/home/npa/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx/1.5.4/3bc504d7330fbbc432a0fa97e64ae118632d1a86/gdx-1.5.4-sources.jar"/>
+	<classpathentry exported="true" kind="con" path="com.android.ide.eclipse.adt.DEPENDENCIES"/>
+	<classpathentry kind="src" path="gen"/>
+	<classpathentry kind="output" path="bin/classes"/>
+</classpath>
